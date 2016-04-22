@@ -1,0 +1,7 @@
+# RightScale Rightlink10 Self-Upgrade Manifest - Windows - Experimental
+# Each line has the form <running_version>:<desired_version>
+# Typically versions are of the form "1.2" but they may also be arbitrary branch names
+#
+# Current stable release: 10.3.1
+# Past releases: 10.3.0, 10.2.1, 10.1.4, 10.1.3, 10.1.2, 10.1.rc1, 10.0.rc4, 10.0.3
+# Releases: http://docs.rightscale.com/rl10/releases/
