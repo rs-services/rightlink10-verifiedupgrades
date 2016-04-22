@@ -1,0 +1,5 @@
+# RightScale Rightlink10 Self-Upgrade Manifest
+# Each line has the form <running_version>:<desired_version>
+# Typically versions are of the form "1.2" but they may also be arbitrary branch names
+
+master:self_upgrade
